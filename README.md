@@ -9,6 +9,7 @@
 <p align="left"></p>I am studied full-stack software development at Ada Developers Academy.
     I'm a science-minded software developer dedicated to creating impactful products that resonate with people's daily lives.</p>
 <p align="left">After the classroom portion of the program, I was software development intern for five months at The Allen Institute for Artificial Intelligence.</p>
+<p align="left">If you're seeking a passionate software engineer skilled in data-driven solutions and resourceful problem-solving, dedicated to delivering high-quality work and fostering strong team collaboration, please reach out.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
